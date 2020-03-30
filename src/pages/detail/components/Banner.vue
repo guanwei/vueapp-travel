@@ -10,7 +10,10 @@
       />
       <div class="banner-info">
         <div class="banner-title">大连圣亚海洋世界(AAAA景区)</div>
-        <div class="banner-number"><span class="iconfont banner-icon">&#xe692;</span>39</div>
+        <div class="banner-number">
+          <span class="iconfont banner-icon">&#xe692;</span>
+          39
+        </div>
       </div>
     </div>
     <common-gallary
